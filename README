@@ -1,0 +1,16 @@
+Jacob McClure
+jatmcclu@ucsc.edu
+
+
+This file is a table of contents for my Queens Puzzle repository:
+
+1) README - this file (a table of contents)
+
+2) Makefile - tool created to enable easier compilation of Queens.c
+
+3) Queens.c -  C program that uses recursion to find all solutions to the n-Queens problem
+   Usage: Enter "Queens <n>" where 1 <= n <= 15 and you will see how many possible solutions
+          there are for the specified board size. 
+          Enter "Queens -v <n>" where 1 <= n <= 15 and you will see all possible permutations
+          of solutions given the specified board size. You will also be given the total number
+          of permutations provided.
